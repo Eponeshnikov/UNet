@@ -31,17 +31,10 @@ This project is a Python implementation of UNet model for image segmentation.
     ├── Cars/
         ├── dataA/
             ├── dataA/
-                ├── images/
+                ├── CameraRGB/
                     ├── img1.jpg
                     └── ...
-                ├── masks/
-                    ├── mask1.png
-                    └── ...
-            ├── valA/
-                ├── images/
-                    ├── img1.jpg
-                    └── ...
-                ├── masks/
+                ├── CameraSeg/
                     ├── mask1.png
                     └── ...
         ├── dataB/
