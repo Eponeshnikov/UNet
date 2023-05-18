@@ -6,11 +6,11 @@ This project is a Python implementation of UNet model for image segmentation.
 
 ### Prerequisites
 - Python 3.6+
-- PyTorch 1.7+
-- tqdm==4.62.0
-- numpy==1.19.5
-- matplotlib==3.4.3
-- albumentations==1.1.0
+- PyTorch 1.8+
+- tqdm
+- numpy
+- matplotlib
+- albumentations
 
 ### Installation
 
